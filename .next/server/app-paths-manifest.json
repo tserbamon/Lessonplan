@@ -1,0 +1,13 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/create/page": "app/create/page.js",
+  "/assess/page": "app/assess/page.js",
+  "/api/generate/route": "app/api/generate/route.js",
+  "/login/page": "app/login/page.js",
+  "/page": "app/page.js",
+  "/plan/page": "app/plan/page.js",
+  "/signup/page": "app/signup/page.js",
+  "/support/page": "app/support/page.js",
+  "/teach/page": "app/teach/page.js",
+  "/tools/page": "app/tools/page.js"
+}
